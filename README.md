@@ -1,0 +1,1 @@
+# mercedes-benz-manifesto
