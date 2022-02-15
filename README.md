@@ -2,7 +2,7 @@
 
 **Over the last few years, Free and Open Source Software (FOSS) has become the foundation of just about every application across the industry. At Mercedes-Benz, we have been transforming our approach towards software development for quite a while – away from a strict “we develop our own code” attitude towards embracing Open and Inner Source.**
 
-To fully embrace Open Source means to become a good citizen of the worldwide Open Source community. It doesn't suffice to just “use” Open Source. We want to actively give back, contribute to Open Source and share code of ours that might be useful to the outside world as well. In order to support this goal and drive forward our transformation, we have created the Mercedes-Benz FOSS Manifesto.
+To fully embrace Open Source means to become a good citizen of the worldwide Open Source community. It doesn't suffice to just “use” Open Source. We want to actively give back, contribute to Open Source and share code of ours that might be useful to the outside world as well. In order to support this goal and drive forward our transformation, we have created the [Mercedes-Benz FOSS Manifesto](https://github.com/mercedes-benz/mercedes-benz-foss-manifesto/blob/main/mercedes-benz-foss-manifesto.md).
 
 The Mercedes-Benz FOSS Manifesto is a set of core values which proclaim the importance of FOSS for us as a modern company and its IT organization. A transformation in a big company can only be successful if the employees at the base believe in it and live it by example, and if at the same time, management fully backs it up. Thus, our Mercedes-Benz FOSS Manifesto was born, and it ingrains these aspects into the company’s DNA.
 
