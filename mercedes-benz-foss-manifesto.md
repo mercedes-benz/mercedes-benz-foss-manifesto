@@ -1,4 +1,8 @@
-# The Mercedes-Benz AG - FOSS Center of Competence and the CIO, #
+# Mercedes-Benz FOSS Manifesto #
+
+## Preamble ##
+
+### The Mercedes-Benz AG - FOSS Center of Competence and the CIO, ####
 
 - RESOLVED to incorporate Free and Open Source Software in our daily software development to improve the quality of our software as well as the speed of delivery,
 
