@@ -14,13 +14,13 @@ HABEN ENTSCHIEDEN, diese FOSS-Leitprinzipien zu etablieren:
 
 ## Unternehmensprinzipien ##
 
-C1. Mercedes-Benz unterstützt und ermutigt ihre Mitarbeiter, FOSS-Projekte zu nutzen, dazu beizutragen und zu erstellen, sowohl in Open- als auch Inner-Source-Unterfangen. [Encourage FOSS]
+C1. Die Mercedes-Benz Group AG unterstützt und ermutigt ihre Mitarbeiter/innen, FOSS-Projekte zu nutzen, dazu beizutragen und zu erstellen, sowohl in Open- als auch Inner-Source-Unterfangen. [Encourage FOSS]
 
-C2. Mercedes-Benz erlaubt ihren Mitarbeitern, in einem angemessenen Zeitrahmen an FOSS-Aktivitäten teilzunehmen. [Facilitate FOSS Participation]
+C2. Die Mercedes-Benz Group AG erlaubt ihren Mitarbeitern/innen, in einem angemessenen Zeitrahmen an FOSS-Aktivitäten teilzunehmen. [Facilitate FOSS Participation]
 
-C3. Mercedes-Benz ermutigt ihre Mitarbeiter und ermöglicht es ihnen, mittels FOSS-Aktivitäten zu lernen und sich weiterzuentwickeln. [Advancement through FOSS]
+C3. Die Mercedes-Benz Group AG ermutigt ihre Mitarbeiter/innen und ermöglicht es ihnen, mittels FOSS-Aktivitäten zu lernen und sich weiterzuentwickeln. [Advancement through FOSS]
 
-C4. Mercedes-Benz fördert die Sichtbarkeit in Open-Source-Communities. [FOSS Visibility]
+C4. Die Mercedes-Benz Group AG fördert die Sichtbarkeit in Open-Source-Communities. [FOSS Visibility]
 
 ## Mitarbeiterprinzipien ## 
 
