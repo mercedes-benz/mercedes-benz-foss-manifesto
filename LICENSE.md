@@ -1,4 +1,4 @@
-The Mercedes-Benz FOSS Manifesto is licensed under a Creative Commons CC0 license. Thus, it is released into the public domain and permission is granted to use it for any purpose. You can use the text of the FOSS Manifesto, use and alter it as you like, and you don't have to credit us. Please click on the icon below for detailed information. 
+The Mercedes-Benz FOSS Manifesto is licensed under a Creative Commons CC0 license. Thus, it is released into the public domain and permission is granted to use it for any purpose. You can use the text of the FOSS Manifesto (by copying or via the provided templates), use and alter it as you like, and you don't have to credit us. Please click on the icon below for detailed information. 
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
