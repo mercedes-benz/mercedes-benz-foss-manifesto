@@ -6,7 +6,7 @@ There are two ways to create your own FOSS Manifesto:
 
 **Number 1**
 
-1. Download the PDF [here](https://github.com/mercedes-benz/mercedes-benz-foss-manifesto/blob/main/Your%20FOSS%20Manifesto_pirate-style.pdf)
+1. Download the PDF [here](https://github.com/mercedes-benz/mercedes-benz-foss-manifesto/blob/main/Your%20FOSS%20Manifesto_parchment-style.pdf)
 2. Open it and customize the text within the blue text boxes
 3. **Important:** Please save the PDF like this:
 
