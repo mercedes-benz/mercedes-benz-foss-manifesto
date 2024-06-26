@@ -13,6 +13,7 @@ The Mercedes-Benz FOSS Manifesto consists of three parts:
 
 To fully embrace FOSS signifies a big cultural change, with all its questions and challenges. It means to be exposed, to be vulnerable to criticism, and to possibly have to deal with other issues unforeseen. At Mercedes-Benz, we are confident enough to know that we have some of the best and most brilliant engineers in the field, and at the same time, we are always curious and keen to learn from everyone out there. So please forgive us if we don’t always get everything right with regard to Open Source from the start. As a company whose core business has not traditionally been software development, we still have a lot to learn, in particular from those of you who have already been walking this path before. We hope that our Mercedes-Benz FOSS Manifesto may also help others towards the Open Source way, and we promise that we’ll take every opportunity to improve and grow, to pursue our best!
 
+You can find a list of [adaptations and Open Source Manifestos](adaptations.md) from other companies and players here. 
 Thank you for joining us along the ride.
 
 Kudos and thanks go out to the creators of the [Agile Manifesto](http://agilemanifesto.org/) and all the folks out there in the Open Source world who have been and continue to be an inspiration for us! Thank you.
