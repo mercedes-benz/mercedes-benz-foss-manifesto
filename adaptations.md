@@ -6,7 +6,7 @@ Obviously, this is completely voluntary. But we do hope to see the spirit of FOS
 - The [Continental Automotive FOSS Manifesto](https://cdn.continental.com/fileadmin/__imported/sites/corporate/_international/english/hubpages/10_20press/01_press_releases/10_20ces/2023/202301_continental_foss_manifesto.pdf)
 - The [Siemens Open Source Manifesto](https://opensource.siemens.com/manifesto/)
 - The [Porsche FOSS Movement](https://opensource.porsche.com/) with its key values and principles
-- The [ETAS Free and Open Source Manifesto](https://www.etas.com/download-center-files/company/etas-open-source-manifesto-20230919.pdf) 
+- The [ETAS Free and Open Source Manifesto](https://www.etas.com/download-center-files/company/etas-open-source-manifesto-231011.pdf) 
 - The [Deutsche Bahn Open Source Manifesto](https://opensource.deutschebahn.com/opensource-en)
 - The [CARIAD Open Source Manifesto](https://cariad.technology/de/en/news/stories/cariad-open-source-manifesto.html) 
 - The [SAP Open Source Manifesto](https://www.sap.com/documents/2024/05/ec7cc67d-bf7e-0010-bca6-c68f7e60039b.html) 
