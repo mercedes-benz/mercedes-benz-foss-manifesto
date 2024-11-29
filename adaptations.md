@@ -10,5 +10,6 @@ Obviously, this is completely voluntary. But we do hope to see the spirit of FOS
 - The [Deutsche Bahn Open Source Manifesto](https://opensource.deutschebahn.com/opensource-en)
 - The [CARIAD Open Source Manifesto](https://cariad.technology/de/en/news/stories/cariad-open-source-manifesto.html) 
 - The [Inditex Free, Open Source Software (FOSS) Manifesto](https://github.com/InditexTech/foss/blob/main/INDITEX_FOSS_Manifesto.md) 
-
+- The [ZF Open Source Manifesto](https://www.zf.com/mobile/de/company/divisions_business_units/research_development/open_source/open_source.html)
+  
 Thank you all for being part of the FOSS World and driving Open Source!
