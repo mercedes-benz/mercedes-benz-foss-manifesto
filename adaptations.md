@@ -1,4 +1,4 @@
-# Adaptations
+adaptations.md# Adaptations
 
 If you have adapted the FOSS Manifesto for your company or published a version similar in spirit to this one here, you may mention your Manifesto or FOSS guidelines here and provide a link to it. 
 Obviously, this is completely voluntary. But we do hope to see the spirit of FOSS being spread more and more throughout the corporate world! :-)
