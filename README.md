@@ -1,4 +1,4 @@
-# The Mercedes-Benz FOSS Manifesto - Our commitment to be truly open
+https://github.com/mercedes-benz/mercedes-benz-foss-manifesto.git# The Mercedes-Benz FOSS Manifesto - Our commitment to be truly open
 
 **Over the last few years, Free and Open Source Software (FOSS) has become the foundation of just about every application across the industry. At Mercedes-Benz, we have been transforming our approach towards software development for quite a while – away from a strict “we develop our own code” attitude towards embracing Open and Inner Source.**
 
