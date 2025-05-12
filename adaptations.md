@@ -9,7 +9,8 @@ Obviously, this is completely voluntary. But we do hope to see the spirit of FOS
 - The [ETAS Free and Open Source Manifesto](https://www.etas.com/download-center-files/company/etas-open-source-manifesto-231011.pdf) 
 - The [Deutsche Bahn Open Source Manifesto](https://opensource.deutschebahn.com/opensource-en)
 - The [CARIAD Open Source Manifesto](https://cariad.technology/de/en/news/stories/cariad-open-source-manifesto.html) 
-- The [Inditex Free, Open Source Software (FOSS) Manifesto](https://github.com/InditexTech/foss/blob/main/INDITEX_FOSS_Manifesto.md) 
+- The [Inditex Free, Open Source Software (FOSS) Manifesto](https://github.com/InditexTech/foss/blob/main/INDITEX_FOSS_Manifesto.md)
+- The [SAP Open Source Manifesto](https://github.com/SAP/open-source-manifesto)
 - The [ZF Open Source Manifesto](https://www.zf.com/mobile/de/company/divisions_business_units/research_development/open_source/open_source.html)
 - The [Toyota FOSS Manifesto](https://github.com/TOYOTA)
   
